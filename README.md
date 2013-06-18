@@ -1,9 +1,12 @@
 ImageProcessingLib
 ==================
 
+Android Image Processing Library
+
 This library apply filters to images and can pick an image from gallery and save it.
 
-Android Image Processing Library
+![Screenshot](https://github.com/jcmore2/ImageProcessingLib/raw/master/raw/demo_image.png)
+
 
 Contains
 ==================
