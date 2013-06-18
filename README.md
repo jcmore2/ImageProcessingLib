@@ -11,8 +11,8 @@ This library apply filters to images and can pick an image from gallery and save
 Contains
 ==================
 
-*ImageProcessingLib: Library
-*TestImageProcessingLib: Demo tu use the library
+* ImageProcessingLib: Library
+* TestImageProcessingLib: Demo tu use the library
 
 
 Licence
